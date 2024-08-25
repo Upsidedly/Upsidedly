@@ -6,4 +6,6 @@ I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python
 - [Chatterbox](https://github.com/Upsidedly/chatterbox): A secure dialogue handler for Roblox games
 - [Linklocker](https://github.com/Upsidedly/locked-link): An insecure lock for links (See my modifications [here](https://github.com/ccsoftwareengineering/locked-link) for a secure, hashed version)
 
+### Stats
+👷🏽
 [![Upsided's GitHub stats](https://github-readme-stats.vercel.app/api?username=Upsidedly&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
