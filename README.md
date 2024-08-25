@@ -1,4 +1,4 @@
-# ![Upsided](https://raw.githubusercontent.com/Upsidedly/Upsidedly/main/upsided2.png)
+<img src="[Upsided](https://raw.githubusercontent.com/Upsidedly/Upsidedly/main/upsided2.png)" alt="drawing" width="500"/>
 Hello! I'm Upsided, an ambitious high school developer who creates things to benefit others and quell my boredom.
 I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python.org/), [Javascript](https://nodejs.org/en/) (Typescript), and some [Java](https://www.java.com/en/) and [Kotlin](https://kotlinlang.org/)
 ## Projects
