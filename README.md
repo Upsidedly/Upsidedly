@@ -4,5 +4,6 @@ I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python
 ## Projects
 - [Avia](https://github.com/Upsidedly/avia): An intuitive framework for Lilybird (Unmaintained)
 - [Chatterbox](https://github.com/Upsidedly/chatterbox): A secure dialogue handler for Roblox games
+- [Linklocker](https://github.com/Upsidedly/locked-link): An insecure lock for links (See my modifications [here](https://github.com/ccsoftwareengineering/locked-link) for a secure, hashed version)
 
 [![Upsided's GitHub stats](https://github-readme-stats.vercel.app/api?username=Upsidedly)](https://github.com/anuraghazra/github-readme-stats)
