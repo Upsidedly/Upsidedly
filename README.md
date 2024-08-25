@@ -1,6 +1,6 @@
 # Upsided
-Hello! I'm Upsided. I'm a developer that makes random stuff when his brain tells him to!  
-I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python.org/), [Javascript](https://nodejs.org/en/) (and Typescript.)
+Hello! I'm Upsided, an ambitious high school developer who creates things to benefit others and quell my boredom.
+I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python.org/), [Javascript](https://nodejs.org/en/) (Typescript), and some [Java](https://www.java.com/en/) and [Kotlin](https://kotlinlang.org/)
 ## Projects
 - [Avia](https://github.com/Upsidedly/avia): An intuitive framework for Lilybird (Unmaintained)
 - [Chatterbox](https://github.com/Upsidedly/chatterbox): A secure dialogue handler for Roblox games
