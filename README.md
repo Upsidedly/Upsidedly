@@ -7,6 +7,7 @@ I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python
 - [Chatterbox](https://github.com/Upsidedly/chatterbox): A secure dialogue handler for Roblox games
 - [Linklocker](https://github.com/Upsidedly/locked-link): An insecure lock for links (See my modifications [here](https://github.com/ccsoftwareengineering/locked-link) for a secure, hashed version)
 - [Pi Champs](https://github.com/Upsidedly/pi-champs): A simple Pi digit memory game
+- [Oil Worth](https://github.com/Upsidedly/oil-worth): The oil energy equivalent of various actions
 
 ### Stats
 👷🏽
