@@ -9,6 +9,8 @@ I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python
 - [Pi Champs](https://github.com/Upsidedly/pi-champs): A simple Pi digit memory game
 - [Oil Worth](https://github.com/Upsidedly/oil-worth): The oil energy equivalent of various actions
 - [Power Island](https://github.com/ccsoftwareengineering/csf-coding-olympiad-2025): An educational app to teach about energy generation and consumption in the Caribbean (Incomplete!)
+### Robotics
+- [INTO THE DEEP 2024-2025](https://github.com/CC-Robotics/FTC_CAMPION_WORLDS)
 
 ### Stats
 👷🏽
