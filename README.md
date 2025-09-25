@@ -10,7 +10,7 @@ I know the languages of [Lua](https://www.lua.org/), [Python](https://www.python
 - [Oil Worth](https://github.com/Upsidedly/oil-worth): The oil energy equivalent of various actions
 - [Power Island](https://github.com/ccsoftwareengineering/csf-coding-olympiad-2025): An educational app to teach about energy generation and consumption in the Caribbean (Incomplete!)
 - [Dark mode ShadCN Auth Template](https://github.com/Upsidedly/darkmode-shadcn-auth-template): Quick template to spin up a ShadCN project with auth included and dark mode!
-- [Pseudoeditor](https://github.com/Upsidedly/pseudoeditor): A simple web pseudocode editor with history and download!
+- [Pseudoeditor](https://github.com/Upsidedly/pseudoeditor): A simple web pseudocode editor with history and download
 ### Robotics
 - [INTO THE DEEP 2024-2025](https://github.com/CC-Robotics/FTC_CAMPION_WORLDS)
 
